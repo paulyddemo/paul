@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Untitled\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n## Tableau\n\nThese are my notes on Tableau",
+    "created" : 1476969561814.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3138992444",
+    "id" : "DA02F2FB",
+    "lastKnownWriteTime" : 1476969678,
+    "last_content_update" : 1476969682409,
+    "path" : "~/paul/tableau.Rmd",
+    "project_path" : "tableau.Rmd",
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

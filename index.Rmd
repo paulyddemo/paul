@@ -1,0 +1,24 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. Create Rmarkdown file and save as index.Rmd
+
+2. Build > Configure Build Tools > Webesite
+
+3. .nojekyll text file
+
+4. Copy _site.yml from SIMPLE WEBSITE
+
+5. edit _site.yml to the names of your files
+
+6. Press Build
+
+7. Commit to github
+
+8. In Github online settings change to the gh-pages branch to build the website

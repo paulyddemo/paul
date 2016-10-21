@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Untitled\"\noutput: html_document\n---\n\n```{r setup, include=FALSE}\nknitr::opts_chunk$set(echo = TRUE)\n```\n\n1. Create Rmarkdown file and save as index.Rmd\n\n2. Build > Configure Build Tools > Webesite\n\n3. .nojekyll text file\n\n4. Copy _site.yml from SIMPLE WEBSITE\n\n5. edit _site.yml to the names of your files\n\n6. Press Build\n\n7. Commit to github\n\n8. In Github online settings change to the gh-pages branch to build the website\n",
+    "created" : 1477047567958.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "839361262",
+    "id" : "E70251A9",
+    "lastKnownWriteTime" : 1477067204,
+    "last_content_update" : 1477069227485,
+    "path" : "~/paul/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

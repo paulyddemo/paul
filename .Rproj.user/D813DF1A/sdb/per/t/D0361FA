@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"Create a simple Rmarkdown website\"\noutput:\n  html_document:\n    theme: cosmo\n    #highlight: textmate\nnavbar:\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"Getting Started\"\n      menu:\n        - text: \"Create a Project\"\n          href: project.html\n        - text: \"Set Build Options\"\n          href: build.html\n        - text: \"Create a _site.yml\"\n          href: create_yml.html\n        - text: \"Change the Theme\"\n          href: theme.html\n    - text: \"Add Features\"\n      menu: \n        - text: \"Tables and Plots\"\n          href: tables_plots.html\n        - text: \"Include Images\"\n          href: images.html\n        - text: \"Embed a webpage\"\n          href: embed.html\n    - text: \"Publish and Update\"      \n      menu: \n        - text: \"Publishing\"\n          href: publishing.html\n        - text: \"Updating\"\n          href: updating.html\noutput_dir: \".\"\n",
+    "created" : 1477047775856.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1692549092",
+    "id" : "D0361FA",
+    "lastKnownWriteTime" : 1476883524,
+    "last_content_update" : 1476883524,
+    "path" : "~/paul/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
